@@ -1,0 +1,10 @@
+[2021-07-08 00:02:05,877] I kiwoom.py | Kiwoom-__init__-0020 I DEBUG    > Kiwoom() class start.
+[2021-07-08 00:02:46,897] I kiwoom.py | Kiwoom-__init__-0020 I DEBUG    > Kiwoom() class start.
+[2021-07-08 00:19:49,588] I kiwoom.py | Kiwoom-__init__-0020 I DEBUG    > Kiwoom() class start.
+[2021-07-08 00:22:08,988] I kiwoom.py | Kiwoom-__init__-0020 I DEBUG    > Kiwoom() class start.
+[2021-07-08 00:23:59,890] I kiwoom.py | Kiwoom-__init__-0020 I DEBUG    > Kiwoom() class start.
+[2021-07-08 00:24:51,227] I kiwoom.py | Kiwoom-__init__-0020 I DEBUG    > Kiwoom() class start.
+[2021-07-08 00:32:14,720] I kiwoom.py | Kiwoom-__init__-0020 I DEBUG    > Kiwoom() class start.
+[2021-07-08 00:35:40,564] I kiwoom.py | Kiwoom-__init__-0020 I DEBUG    > Kiwoom() class start.
+[2021-07-08 00:35:55,625] I kiwoom.py | Kiwoom-login_slot-0119 I DEBUG    > 정상처리
+[2021-07-08 00:35:55,626] I kiwoom.py | Kiwoom-get_account_info-0130 I DEBUG    > 계좌번호 : 7000906931

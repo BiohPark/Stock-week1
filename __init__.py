@@ -1,5 +1,5 @@
 from kiwoom.kiwoom import *
-from PyQt5.QtWidgets import *
+from PyQt5.QtWidgets import QApplication
 import sys
 
 sys.path.append("D:/stock/week1/")

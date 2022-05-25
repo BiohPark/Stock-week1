@@ -1,6 +1,6 @@
 import os
 import sys
-from PyQt5.QAxContainer import *
+from PyQt5.QAxContainer import QAxWidget
 from PyQt5.QtCore import *
 from config.errorCode import *
 from PyQt5.QtTest import *
@@ -11,7 +11,7 @@ from config.log_class import *
 
 class Kiwoom(QAxWidget):
     def __init__(self):
-        super().__init__()
+        super().__init__()      # QAxWidget.__init__()
         self.realType = RealType()
         self.logging = Logging()
         # self.slack = Slack() #슬랙 동작
